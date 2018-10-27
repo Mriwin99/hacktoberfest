@@ -1637,7 +1637,16 @@ Noida
 #### Name: [Mon](https://github.com/mon555)
 - Place: Bangkok, Thailand
 - Bio: Interactive Developer
-- GitHub: [Mon555](https://github.com/mon555)
+- GitHub: [Mon555](https://github.com/mon555)#### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Mrinal M](https://github.com/Mriwin99)
+ - Place: Bangalore, India
+ - Bio: CSE student in iiitb
+ - GitHub: [Mriwin99](https://github.com/Mriwin99)
+
 
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
